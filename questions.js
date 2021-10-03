@@ -92,4 +92,13 @@ let questions = [
         ],
         answer: 0
     },
+    {
+        question: 'Você gostou do projeto?',
+        options: [
+            'Sim',
+            'Não',
+            'Talvez'
+        ],
+        answer: 0
+    },
 ];
